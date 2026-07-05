@@ -10,3 +10,4 @@ External links:
 - https://poloclub.github.io/transformer-explainer/
 - https://karpathy.ai/zero-to-hero.html
 - https://github.com/karpathy/minGPT
+- http://neuralnetworksanddeeplearning.com/
