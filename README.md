@@ -11,3 +11,4 @@ External links:
 - https://karpathy.ai/zero-to-hero.html
 - https://github.com/karpathy/minGPT
 - http://neuralnetworksanddeeplearning.com/
+- https://github.com/chrishayuk/larql
